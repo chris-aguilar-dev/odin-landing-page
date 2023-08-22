@@ -1,0 +1,12 @@
+/* Root */
+:root {
+    --dark-background: #1f2937;
+    --light-background: #fff;
+    --accent-background: #e5e7eb;
+
+    --dark-text: #1f2937;
+    --light-text: #f9faf8;
+    --accent-text: #e5e7eb;
+
+    --button-color: #3882f6;
+}
